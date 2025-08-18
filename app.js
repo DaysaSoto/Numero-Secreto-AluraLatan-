@@ -3,6 +3,7 @@
         let numeroSecreto = 0;
         let veces = 1;
         let numeroMaximo = 10;
+        let niveles = 1;
 
         // Cambia texto en HTML
         function asignarTextoElemento(elemento, texto) {
@@ -67,3 +68,7 @@
         }
 
         mensajesIniciales();
+
+        function nivelesDificultad(params) {
+            
+        }
