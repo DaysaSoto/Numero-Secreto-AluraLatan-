@@ -1,14 +1,3 @@
-/*let titulo = document.querySelector('h1');
-titulo.innerHTML='Juega el numero secreto';
-
-let parrafo = document.querySelector('p');
-parrafo.innerHTML='Indica el numero del el 1 al 10';
-
-//permite seleccionar una parte del html
-//let encabezado = document.querySelector('h1');
-//encabezado.innerHTML = 'Bienvenido al mundo dev';
-
-*/
 
         let listaNumeroSorteados = [];
         let numeroSecreto = 0;
