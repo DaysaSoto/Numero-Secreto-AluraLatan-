@@ -7,7 +7,7 @@ parrafo.innerHTML='Indica el numero del el 1 al 10';
 //permite seleccionar una parte del html
 //let encabezado = document.querySelector('h1');
 //encabezado.innerHTML = 'Bienvenido al mundo dev';
-oikji
+
 */
 
         let listaNumeroSorteados = [];
